@@ -8,7 +8,7 @@ A Fashion Product Recommendation System built using deep learning and computer v
 - Uses Nearest Neighbors algorithm for similarity search.
 
 ## Demo
-Check out the live demo of the app: [Fashion Product Recommendation System](https://github.com/alihassanml/Fashion-Product-Recomended-System)
+Check out the live demo of the Kaggle: [Fashion Product Recommendation System](https://www.kaggle.com/code/alihassanml/fashion-recomended-system)
 
 ## Installation
 
